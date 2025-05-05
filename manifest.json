@@ -1,0 +1,14 @@
+{
+    "dataStudio": {
+      "name": "Hello Viz",
+      "company": "MeuProjeto",
+      "description": "Meu primeiro visual personalizado",
+      "devMode": true
+    },
+    "components": {
+      "visualization": {
+        "url": "script.js"
+      }
+    }
+  }
+  
